@@ -1,7 +1,7 @@
 # Projetos-2026
 meus primeiros projetos
 
-[Dashboard Power BI - Performance de Vendas (2022-2024)]<img width="530" height="293" alt="projeto pt 3" src="https://github.com/user-attachments/assets/ddc285a9-7a02-43cd-883a-219f17d0c3bf" />
+[Dashboard Power BI - Performance de Vendas (2022-2024)]<img width="1060" height="586" alt="projeto pt 3" src="https://github.com/user-attachments/assets/ddc285a9-7a02-43cd-883a-219f17d0c3bf" />
 
 📊Dashboard de 
 Visão Geral do Projeto
