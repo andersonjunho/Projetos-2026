@@ -1,5 +1,5 @@
 # Projetos-2026
-primeiros projeto
+primeiro projeto
 
 Dashboard Comercial
 <img width="1147" height="643" alt="projeto finalizado" src="https://github.com/user-attachments/assets/69ea97c0-e04d-4681-96ae-ce50afebfe64" />
